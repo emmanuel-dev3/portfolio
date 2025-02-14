@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import {  Poppins, Rubik } from "next/font/google";
+import { Poppins, Rubik } from "next/font/google";
 import "./globals.css";
 import { cn } from "@/lib/utils";
 import Navbar from "@/components/Navbar";
@@ -16,7 +16,7 @@ const rubik = Rubik({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://mdTaquiImam.vercel.app"),
+  metadataBase: new URL("https://portfolio-dun-psi-86.vercel.app/"),
   title: {
     default: siteConfig.name,
     template: `%s - Software Engineer`,
@@ -25,22 +25,23 @@ export const metadata: Metadata = {
 
   // added new keywords for seo
   keywords: [
-    "md",
-    "taqui",
-    "imam",
-    "Md",
-    "MD",
-    "TAQUI",
-    "Taqui",
-    "Imam",
-    "Imam",
-    "Md Taqui Imam",
-    "md taqui imam",
-    "mdtaqui",
-    "mdtaquiimam",
-    "taqui imam",
-    "Taqui Imam",
-    "Taquiimam",
+    "Emmanuel",
+    "emmanuel",
+    "Ifeanyi",
+    "ifeanyi",
+    "Ify",
+    "ify",
+    "emma",
+    "Emma",
+    "Chukwu",
+    "chukwu",
+    "Portfolio",
+    "computer science",
+    "full stack",
+    "frontend",
+    "Frontend",
+    "backend",
+    "Backend",
     "portfolio",
     "web developer",
     "web",
@@ -50,17 +51,22 @@ export const metadata: Metadata = {
     "programmer ",
     "MD TAQUI IMAM ",
     "website",
-    "@Taquiimam",
-    "Taquiimam",
-    "taqui developer",
+    "@Emmanuel",
+    "@emmanuel",
+    "@Emmanueldev",
+    "@emmanueldev",
+    "@Emmanueldev3",
+    "@emmanueldev3",
+    "emmanuel developer",
+    "emmanuel dev",
   ],
   authors: [
     {
-      name: "Taqui Imam",
-      url: "https://github.com/taqui-786",
+      name: "Emmanuel Chukwu",
+      url: "https://github.com/emmanuel-dev3",
     },
   ],
-  creator: "Taqui imam",
+  creator: "Emmanuel Chukwu",
 
   openGraph: {
     type: "website",
@@ -76,7 +82,7 @@ export const metadata: Metadata = {
     title: siteConfig.name,
     description: siteConfig.description,
     images: [`${siteConfig.url}/og-image.png`],
-    creator: "@Taquiimam14",
+    creator: "@emmanuel_dev3",
   },
   icons: {
     icon: "/favicon.ico",
