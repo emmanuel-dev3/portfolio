@@ -74,7 +74,7 @@ export const metadata: Metadata = {
     url: siteConfig.url,
     title: siteConfig.name,
     description: siteConfig.description,
-    images: [`${siteConfig.url}/og-image.png`],
+    images: [`${siteConfig.url}/preview.png`],
     siteName: siteConfig.name,
   },
   twitter: {
