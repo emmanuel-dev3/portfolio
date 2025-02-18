@@ -16,6 +16,13 @@ With a passion for fine wines and a commitment to exceptional service, we strive
     },
 
     {
+      title: "Hirst Painting",
+      description:
+        "The program generate color pallete from image and use the color to create a Hirst painting",
+      tags: ["Python"],
+      link: "https://github.com/emmanuel-dev3/hirst-painting",
+    },
+    {
       title: "Coffee Machine Project",
       description: "OOP In Coffe Machine Using Python",
       tags: ["Python"],
