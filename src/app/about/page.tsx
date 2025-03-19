@@ -21,18 +21,19 @@ const page = () => {
       </Badge>
       <div className="flex flex-col gap-5">
         <Heading>
-          Web Developer And Computer Science <br /> Student, Based In Nigeria.
+          Passionate Developer & CS Student | Creating Impact Through Code.
         </Heading>
 
         <FramerWrapper y={0} x={100}>
           <p className=" font-poppins text-xl w-full text-primary max-sm:text-lg ">
-            I am a Full Stack Web Developer from Enugu State, Nigeria. I&apos;m
-            passionate about crafting web projects and contributing to
-            open-source communities. I specialize in modern JavaScript
-            frameworks and responsive CSS design, focusing on creating
-            pixel-perfect, user-friendly interfaces. With strong attention to
-            detail and efficient delivery, I build seamless web experiences that
-            combine functionality with elegant design.
+            I began my coding journey in 2021 and have been steadily building my
+            skills as an aspiring Full-Stack Web Developer based in Enugu State,
+            Nigeria. In addition to my expertise in modern JavaScript frameworks
+            and responsive CSS design, I am currently expanding my knowledge by
+            learning Python and Java. With a passion for continuous learning and
+            hands-on practice, I aim to craft intuitive, user-friendly
+            interfaces and contribute to open-source communities while growing
+            into a versatile developer.
           </p>
         </FramerWrapper>
       </div>

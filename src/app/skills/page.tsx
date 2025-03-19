@@ -97,10 +97,13 @@ const skillPage = () => {
         <Heading>My Technical Experience/Skills.</Heading>
         <FramerWrapper y={0} x={200}>
           <p className="font-poppins text-xl w-full text-primary max-sm:text-lg">
-            Currently i am an Intermidate and i have a solid understand of
-            HTML5, CSS3, JS, TS and React, including responsive design
-            principles. I specialize in building web applications and sites
-            using Javascript, Typescript, React, Nextjs & Node.
+            Skilled in front-end and back-end development, with expertise in
+            technologies such as HTML5, CSS3, JavaScript (ES6+), TypeScript,
+            React, Next.js, MongoDb, Node.js, SQL, and PHP.. Additionally, I am
+            expanding my versatility by deepening my knowledge of Python and
+            Java. Proficient in responsive design principles, API integration,
+            and modern development workflows, I am committed to continuous
+            learning and delivering efficient, high-quality solutions
           </p>
         </FramerWrapper>
         <FramerWrapper y={100} delay={0.3} className="block w-full">

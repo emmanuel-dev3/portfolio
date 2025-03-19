@@ -47,12 +47,14 @@ With a passion for fine wines and a commitment to exceptional service, we strive
         <Heading>My Projects</Heading>
         <FramerWrapper y={0} x={200}>
           <p className=" font-poppins text-lg w-full text-primary max-sm:text-base">
-            I love to Build Cool Projects. Here, you&#x27;ll find a curated
-            collection of my creative endeavors and technical projects. Each
-            piece represents a journey of innovation, problem-solving, and
-            continuous learning. Feel free to explore this showcase of my
-            passion and expertise in action.{" "}
-            <strong>I will be uploading more cool projects soon...</strong>
+            Welcome to my project showcase—a collection of my creative and
+            technical endeavors. Each project reflects my passion for coding,
+            problem-solving, and continuous growth as a developer. While my
+            portfolio currently features a few initial projects, they represent
+            the foundation of my journey toward building impactful,{" "}
+            <strong>real-world </strong>
+            applications. Stay tuned as I continue to expand this space with
+            more exciting projects in the future.
           </p>
         </FramerWrapper>
       </div>
