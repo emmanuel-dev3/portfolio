@@ -12,7 +12,7 @@ const projectsPage = () => {
       description: `A trusted name in the world of wine distribution.
 With a passion for fine wines and a commitment to exceptional service, we strive to bring the finest selection of wines to retailers, restaurants, and wine enthusiasts alike.`,
       tags: ["PHP", "SQL", "HTML", "CSS"],
-      link: "https://www.trustrinsingsunltd.com/",
+      link: "https://trustrinsingsunltd.com/",
     },
 
     {
